@@ -9,7 +9,7 @@ using Npgsql;
 
 class Program
 {
-    static string folder = @"L:\программирование\menu";
+    static string folder = @"target folder";
     static string connStr = "Host=localhost;Database=test;Username=postgres;Password=123456";
 
     static void Main()
